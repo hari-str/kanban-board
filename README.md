@@ -61,7 +61,7 @@ Ensure that you have the following installed:
 
 **Backend:** JSON Server is used to simulate API calls for persisting tasks.
 
-**Drag and Drop:** Implemented using the react-beautiful-dnd library for smooth interactions.
+**Drag and Drop:** Implemented using the dndkit library for smooth interactions.
 
 **Directory Structure:**
 
